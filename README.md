@@ -4,5 +4,5 @@ In this project I've combined React.js and Chart.js to make Live Tracking Applic
 
 ## License & Copyright
 
-© Ilhan Klisura, ekoeduca d.o.o. Zenica, Web Developer
+© Ilhan Klisura
 
