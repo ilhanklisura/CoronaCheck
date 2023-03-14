@@ -1,9 +1,6 @@
 {
   "name": "coronavirusapp",
   "version": "0.1.0",
-  "engines": {
-    "node": "19.x"
-  },
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.9.11",
@@ -17,7 +14,7 @@
     "react-chartjs-2": "^5.2.0",
     "react-countup": "^6.4.2",
     "react-dom": "^18.2.0",
-    "react-scripts": "5.0.1"
+    "react-scripts": "^5.0.1"
   },
   "scripts": {
     "start": "react-scripts start",
