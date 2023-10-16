@@ -1,3 +1,5 @@
+# 'CoronaCheck' Real-Time Data Tracking Application
+
 **CoronaCheck** is an open-source, community-driven **COVID-19 tracking and information application** designed to provide up-to-date data, news, and resources related to the Coronavirus pandemic. Our mission is to empower individuals with reliable and real-time information to make informed decisions and stay safe during these challenging times.
 
 ## Key Features:
