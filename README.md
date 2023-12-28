@@ -1,28 +1,56 @@
-# 'CoronaCheck' Real-Time Data Tracking Application
+# CovidCheck: Real-Time COVID-19 Tracking Application
 
-**CoronaCheck** is an open-source, community-driven **COVID-19 tracking and information application** designed to provide up-to-date data, news, and resources related to the Coronavirus pandemic. Our mission is to empower individuals with reliable and real-time information to make informed decisions and stay safe during these challenging times.
+Welcome to CovidCheck, your go-to Real-Time Covid-19 Tracking Application designed to provide up-to-date information on the global pandemic. This web application is built using JavaScript, React.js, Hooks, Material UI, and Chart.js, offering a comprehensive and visually appealing solution for tracking COVID-19 statistics.
 
-## Key Features:
+## Features
 
-- **Real-Time Data:** Get the latest COVID-19 statistics, including cases, recoveries, and fatalities from trusted sources.
-- **Localized Information:** Access region-specific data and updates, helping you stay informed about your local area.
-- **News and Resources:** Stay updated with the latest news articles, guidelines, and resources from reputable health organizations.
-- **Symptom Checker:** Quickly assess your symptoms and access guidance on whether you should seek medical advice or take self-isolation measures.
-- **Vaccine Information:** Find information on COVID-19 vaccines, including availability, eligibility, and distribution details.
+- **Real-Time Data:** Access the latest COVID-19 statistics, including confirmed cases, deaths, and recoveries worldwide.
 
-### Contributing:
-We welcome contributions from developers, designers, and data enthusiasts. If you want to help improve this project, feel free to fork the repository and submit pull requests.
+- **Interactive Charts:** Visualize the data with interactive charts powered by Chart.js, allowing users to gain insights into the pandemic's trends.
 
-### Getting Started:
-To get started with **CoronaCheck**, visit our website at **https://coronacheckapp.com/** or clone this repository and follow the installation instructions in the documentation.
+- **Country-specific Information:** Drill down into specific countries to view detailed statistics and trends.
 
-### Disclaimer:
-**CoronaCheck** is not a substitute for professional medical advice. Always consult with healthcare professionals and follow local health guidelines.
+- **Responsive Design:** Enjoy a responsive and user-friendly interface suitable for both desktop and mobile devices.
 
-### License:
-This project is licensed under the MIT License.
+## Technologies Used
 
-Join us in the fight against COVID-19 by staying informed with CoronaCheck!
+- **Frontend:** JavaScript, React.js, Hooks, Material UI, Chart.js
 
-**© Ilhan Klisura**
+## Getting Started
 
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/your-username/covidcheck.git
+   ```
+
+2. Install dependencies:
+
+   ```bash
+   cd covidcheck
+   npm install
+   ```
+
+3. Run the application:
+
+   ```bash
+   npm start
+   ```
+
+4. Access the application in your web browser at `http://localhost:3000`.
+
+## Contributing
+
+We welcome contributions from the community! If you'd like to contribute to CovidCheck, please follow our [contribution guidelines](CONTRIBUTING.md).
+
+## License
+
+This project is licensed under the [MIT License](LICENSE.md).
+
+## Support
+
+For any issues or questions, please [open an issue](https://github.com/your-username/covidcheck/issues) on GitHub.
+
+---
+
+Thank you for using CovidCheck to stay informed about the Covid-19 pandemic. We hope this application helps you understand and visualize the impact of the virus. If you have any feedback or suggestions, feel free to reach out. Stay safe!
